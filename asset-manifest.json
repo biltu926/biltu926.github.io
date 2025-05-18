@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/biltu926.github.io/static/css/main.655d639b.css",
+    "main.js": "/biltu926.github.io/static/js/main.1aa422ad.js",
+    "static/js/453.2b200461.chunk.js": "/biltu926.github.io/static/js/453.2b200461.chunk.js",
+    "index.html": "/biltu926.github.io/index.html",
+    "main.655d639b.css.map": "/biltu926.github.io/static/css/main.655d639b.css.map",
+    "main.1aa422ad.js.map": "/biltu926.github.io/static/js/main.1aa422ad.js.map",
+    "453.2b200461.chunk.js.map": "/biltu926.github.io/static/js/453.2b200461.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.655d639b.css",
+    "static/js/main.1aa422ad.js"
+  ]
+}
